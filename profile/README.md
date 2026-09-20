@@ -20,7 +20,7 @@ Practical design, hands-on implementation, reproducible evidence, prioritised re
 
 [Visit elitechz.com](https://elitechz.com) | [Email info@elitechz.com](mailto:info@elitechz.com)
 
-<a href="https://elitechz.com"><img src="assets/wave.png" alt="EliTechZ wave logo" width="160" height="160"></a>
+<a href="https://elitechz.com"><img src="assets/wave.png" alt="EliTechZ wave logo" width="160"></a>
 
 ## Security contact
 
