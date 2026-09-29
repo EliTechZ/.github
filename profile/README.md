@@ -4,7 +4,7 @@
 
 Infrastructure that performs. Security that holds.
 
-EliTechZ is a specialist IT services company based in Hilversum, Netherlands, supporting businesses worldwide. One hands-on technical partner takes complex infrastructure, AI integration and security work from design to deployment, documentation and knowledge transfer.
+EliTechZ is an engineering and security company in Hilversum, the Netherlands, working with teams in the Netherlands and elsewhere. One hands-on technical partner takes complex infrastructure, AI integration and security work from design to deployment, documentation and knowledge transfer.
 
 ## Infrastructure and automation
 
